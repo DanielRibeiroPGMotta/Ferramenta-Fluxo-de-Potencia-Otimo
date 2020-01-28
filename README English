@@ -1,0 +1,6 @@
+The program consists in an optimum load flow tool developed in MATLAB.
+
+Throwout a simulator, the program is able to determine the tension magnitude and angule,
+of an eletrical power system, in transmission phase, to generate the maximum active and
+reative power with stability, which is considered between 0.9 and 1.1 p.u.
+
